@@ -22,7 +22,9 @@ public class Promedio {
 
         int [] prome;
         prome= new int[20];
-
+        
+        int numdatos=20;
+       
         int i;
         float total=0;
         for(i=0;i<20;++i)
@@ -32,7 +34,7 @@ public class Promedio {
            total=total+prome[i];
         }
         System.out.println("total es: "+total);
-        total= total/20;
+        total= total/numdatos;
         System.out.println("promedio general es: "+total);
         for(i=19;i>=0;--i)
             System.out.println("alumno "+i+" su promedio es: "+prome[i]);  
