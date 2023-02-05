@@ -1,0 +1,48 @@
+commit 8d6acc927271c4c36a3537143961c5ae67c66b34
+Merge: ecc4763 2e18e35
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Sat Feb 4 18:10:56 2023 -0600
+
+    Merge branch 'main' of https://github.com/vesania-sofia/tareasp39959-21-1896
+
+commit ecc476324d118d12db8b398f657532067906a78c
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Sat Feb 4 18:08:41 2023 -0600
+
+    revision y comentar el programa
+
+commit acee60b9ad52483c20efa21c924e4af309087ae6
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Jan 30 15:52:08 2023 -0600
+
+    agregado de bitacora
+
+commit 2e18e350284829d8cac4ee9f7eac9b31ed0da382
+Author: vesania-sofia-tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Mon Jan 30 15:51:42 2023 -0600
+
+    Delete bitacora1.txt
+
+commit 24ad5ac45d4011644f3e220ca637baa05c5ee3d5
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Jan 30 15:45:45 2023 -0600
+
+    cambio al programa del promedio
+
+commit 1c5572572a8f157cd8f7731ee5c4caaa6c575955
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Mon Jan 30 15:35:30 2023 -0600
+
+    revision y documentacion de programa
+
+commit 48d0d9891a85c6f238fb1a9f82e4e02253208c90
+Author: sofia Tobar <kgomezt2@miumg.edu.gt>
+Date:   Wed Jan 25 11:16:36 2023 -0600
+
+    se agregaron los programas
+
+commit d42efcac00a6e12f038db39248d96276d6b84997
+Author: vesania-sofia-tobar <97969064+vesania-sofia@users.noreply.github.com>
+Date:   Wed Jan 25 11:10:24 2023 -0600
+
+    Initial commit
